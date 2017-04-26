@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Enviar Mensagens</string>
+    <string-array name="series">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="turno">
+        <item>manha</item>
+        <item>tarde</item>
+    </string-array>
+    <string-array name="turma">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+    </string-array>
+</resources>
